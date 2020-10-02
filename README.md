@@ -7,7 +7,7 @@ Script uses an Android ApkSignature to perform authentication in addition using 
 ### Usage:
 >git clone https://github.com/barlikburak/instashell.git <br>
 >cd instashell <br>
->chmod 777 *.sh <br>
+>chmod +x *.sh <br>
 >sudo -s <br>
 >bash install.sh <br>
 >service tor start <br>
